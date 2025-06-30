@@ -1,0 +1,12 @@
+nodejs
+neovim
+bat
+git
+python
+coreutils
+qalculate
+fastfetch
+neohtop
+fzf
+fastcopy
+ffmpeg
